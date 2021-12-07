@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Logicals
-comment1.params=s
-comment1.target=boolean\ isDigit(java.lang.String)
-comment2.params=n
-comment2.target=java.lang.String\ itos(int)
-comment3.params=s
-comment3.target=int\ stoi(java.lang.String)
-numComments=4
